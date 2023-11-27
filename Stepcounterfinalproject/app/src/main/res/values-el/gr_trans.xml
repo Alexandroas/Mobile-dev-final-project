@@ -1,0 +1,23 @@
+<resources>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="person">Άτομο</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="title_activity_settings2">SettingsActivity2</string>
+    <string name="km">Χιλιομετρα</string>
+    <string name="share">Κοινοποίηση</string>
+    <string name="reset_data">Μηδενιση Δεδομενων</string>
+    <string name="share_string">\Δες την προοδο μου στην εφαρμογή eStep!\</string>
+    <string name="steps_string">\Βήματα. \</string>
+    <string name="goal_done_string">Εχω καταφερει τον καθημερινο μου στοχο των 7500 βημάτων</string>
+    <string name="done_string">\Εχω κανει \</string>
+    <string name="steps_today">\ βήματα σημερα!\</string>
+    <string name="total_steps">\Συνολικα βήματα: \</string>
+    <string name="your_weight">Το βάρος σου:</string>
+    <string name="weight">Βάρος</string>
+    <string name="your_height">Το ύψος σου:</string>
+    <string name="height">Ύψος</string>
+    <string name="km_done">Συνολικά χιλιόμετρα:</string>
+    <string name="profile">Προφίλ</string>
+    <string name="home">Αρχική</string>
+    <string name="change_language">Αλλαγή γλώσσας</string>
+</resources>

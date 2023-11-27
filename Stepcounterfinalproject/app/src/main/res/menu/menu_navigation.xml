@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile_screen_id"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_profile_foreground"/>
+    <item
+        android:id="@+id/activity_main_id"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+
+    <item
+        android:id="@+id/settings_screen_id"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings_foreground"/>
+
+</menu>
